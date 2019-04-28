@@ -1,0 +1,53 @@
+<tweak>
+
+<tweakName>
+Ingress Prime++
+</tweakName>
+<tweakShortDescription>
+Tweak for Ingress Prime
+</tweakShortDescription>
+<tweakDescription>
+This tweak allows players to walk their character in-game with a joystick.
+</tweakDescription>
+
+<tweakSize>
+873.0 kB
+</tweakSize>
+<tweakCategory>
+Tweaks
+</tweakCategory>
+<tweakCompatibility>
+iOS 10-12.1.2
+</tweakCompatibility>
+<tweakVersion>
+2.20.2r-10
+</tweakVersion>
+<tweakAppVersion>
+2.20.2
+</tweakAppVersion>
+<tweakUpdateDate>
+03/29/2019
+</tweakUpdateDate>
+
+<tweakDeveloper>
+Global++ Tweaks
+</tweakDeveloper>
+<tweakDevTwitter>
+@GlobalTweaks
+</tweakDevTwitter>
+<tweakDevTwitterPic>
+https://pbs.twimg.com/profile_images/1047917161258397698/joN_-8a2_400x400.jpg
+</tweakDevTwitterPic>
+<tweakDevTwitterURL>
+https://twitter.com/GlobalTweaks
+</tweakDevTwitterURL>
+
+<tweakChangelog>
+• Updated to support App Store version 2.20.2
+</tweakChangelog>
+
+<numOfScreenshots>
+5
+</numOfScreenshots>
+
+</tweak>

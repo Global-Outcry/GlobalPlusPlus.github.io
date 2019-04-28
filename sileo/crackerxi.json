@@ -1,0 +1,121 @@
+{
+	"class":"DepictionTabView",
+	"minVersion":"0.3",
+	"headerImage":"https://pbs.twimg.com/profile_banners/2865694602/1475654960/1500x500",
+	"tintColor":"#010aa3",
+	"tabs":[
+		{
+			"class":"DepictionStackView",
+			"tabname":"Details",
+			"views":[
+				{
+					"class":"DepictionMarkdownView",
+					"markdown":"Decrypt apps on iOS 11-12\n\nThis tweak allows you to decrypt any app on iOS 11-12. This works on Electra (iOS 11 Only) and Unc0ver jailbreaks. You can remove WatchKit and remove UISupportedDevices from the info.plist in settings.",
+					"useSpacing":true
+				},
+				{
+					"class":"DepictionScreenshotsView",
+					"itemCornerRadius":12.8,
+					"itemSize":"{180, 361}",
+					"screenshots":[
+						{
+							"accessibilityText":"Screenshot",
+							"url":"https://pokego2.com/package/crackerxi/1.png"
+						},
+						{
+							"accessibilityText":"Screenshot",
+							"url":"https://pokego2.com/package/crackerxi/2.png"
+						}
+					]
+				},
+				{
+				    "class":"DepictionMarkdownView",
+				    "markdown":"#### What's New\n\nHere's what's new in CrackerXI+:\n\n1. Updating to 1.1.5\n2. Option to Decrypt Binary only.\n3. Compatible with iOS 12 and unc0ver only.\n4. Minor Fixes",
+				    "useSpacing":true
+				},
+				{
+					"class":"DepictionSeparatorView"
+				},
+				{
+					"class":"DepictionHeaderView",
+					"title":"Information"
+				},
+				{
+					"class":"DepictionTableTextView",
+					"text":"9.11 MB",
+					"title":"Size"
+				},
+				{
+					"class":"DepictionTableTextView",
+					"text":"System",
+					"title":"Category"
+				},
+				{
+					"class":"DepictionTableTextView",
+					"text":"iOS 11-12.1.2",
+					"title":"Compatibility"
+				},
+				{
+					"class":"DepictionTableTextView",
+					"text":"1.1.5",
+					"title":"Version"
+				},
+				{
+					"class":"DepictionTableTextView",
+					"text":"N/A",
+					"title":"App Store Version"
+				},
+				{
+					"class":"DepictionTableTextView",
+					"text":"03/11/2019",
+					"title":"Updated"
+				},
+			]
+		},
+		{
+			"class":"DepictionStackView",
+			"tabname":"Changelog",
+			"views":[
+			    {
+					"class":"DepictionSubheaderView",
+					"title":"1.1.5",
+					"useBoldText":true,
+					"useBottomMargin":false
+				},
+				{
+					"class":"DepictionMarkdownView",
+					"markdown":"1. Updating to c0py's official 1.1.5\n2. Option to Decrypt Binary only.\n3. Compatible with iOS 12 and unc0ver only.\n4. Minor Fixes",
+					"useSpacing":true
+				},
+				{
+					"class":"DepictionSeparatorView"
+				},
+				{
+					"class":"DepictionSubheaderView",
+					"title":"1.1.4",
+					"useBoldText":true,
+					"useBottomMargin":false
+				},
+				{
+					"class":"DepictionMarkdownView",
+					"markdown":"1. Updating to c0py's official 1.1.4",
+					"useSpacing":true
+				},
+				{
+					"class":"DepictionSeparatorView"
+				},
+				{
+					"class":"DepictionSubheaderView",
+					"title":"1.1.3",
+					"useBoldText":true,
+					"useBottomMargin":false
+				},
+				{
+					"class":"DepictionMarkdownView",
+					"markdown":"1. Initial release on Global++ repo with c0pyninja's permission",
+					"useSpacing":true
+				}
+			]
+		}
+	]
+}

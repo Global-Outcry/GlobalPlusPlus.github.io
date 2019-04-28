@@ -1,0 +1,247 @@
+Package: com.ipc.crackerxi
+Version: 1.1.5
+Architecture: iphoneos-arm
+Maintainer: c0pyn1nja
+Depends: firmware (>= 11.0), ldid (>=2.0)
+Filename: ./crackerxi.deb
+Size: 9552808
+MD5sum: 69f1118d64582445d986ac42f0b6db51
+SHA1: 33b1e09445e1583f1ac61d74f5b2acf9c5a652b8
+SHA256: bf894d8847d6c2173b87d40368d8af6c43da98e6ea7862ee78794e630c64900c
+Section: System
+Description: Decrypts iOS Apps
+Depiction: http://pokego2.com/depiction.html?crackerxi
+Icon: file:///Applications/crackerxi.app/AppIcon.png
+Name: CrackerXI+
+Sileodepiction: https://pokego2.com/sileo/crackerxi.json
+Website: https://ipastore.me
+
+Package: com.pokego2.DraconiusPP
+Version: 1.10.0r-32
+Architecture: iphoneos-arm
+Maintainer: Global++ Tweaks <support@pokego2.com>
+Depends: mobilesubstrate, firmware (>= 7.0)
+Conflicts: com.cokepokes.Masterball, com.ryleyangus.pokepatch, com.williamcobb.pokemonpatch, com.sull.masterball, com.WilliamCobb.pokemongoanywhere, com.WilliamCobb.pokemongoanywherebeta, com.pokego2.DraconiusPP-11
+Filename: ./draconiuspp.deb
+Size: 4713072
+MD5sum: fa9349d4c798b3030a71903fec3666c9
+SHA1: 5440440e633084d2e1ff232ecfefaa9704a03ebd
+SHA256: 22d4c35fd170ed73078bb344a31e4a4b65e516f699998641e7d99e6ab14f34a7
+Section: Tweaks
+Priority: optional
+Description: Hacks and more for Draconius GO!!! Bypass JB Detection.
+Tag: purpose::extension, role::enduser
+Author: Global++ Tweaks <support@pokego2.com>
+Depiction: http://pokego2.com/package/drago/index.html
+Dev: i4iphones
+Name: DraGo++
+Sileodepiction: https://pokego2.com/package/drago/drago.json
+
+Package: com.pokego2.DraconiusPP-11
+Version: 1.10.0r-32
+Architecture: iphoneos-arm
+Maintainer: Global++ Tweaks <support@pokego2.com>
+Depends: mobilesubstrate, firmware (>= 7.0)
+Conflicts: com.cokepokes.Masterball, com.ryleyangus.pokepatch, com.williamcobb.pokemonpatch, com.sull.masterball, com.WilliamCobb.pokemongoanywhere, com.WilliamCobb.pokemongoanywherebeta, com.pokego2.DraconiusPP
+Filename: ./draconiuspp11.deb
+Size: 4713798
+MD5sum: ab4ef2f3a75d3db61a6c793c6464d264
+SHA1: cc51c5fe1d4a9d2389c5ea4b6b57aca402170eda
+SHA256: b802231a8a353b63beb4e87ec84669d926a98354f6da3138c07a698a3e0aee80
+Section: Tweaks
+Priority: optional
+Description: Hacks and more for Draconius GO!!! Bypass JB Detection.
+Tag: purpose::extension, role::enduser
+Author: Global++ Tweaks <support@pokego2.com>
+Depiction: http://pokego2.com/package/drago11/index.html
+Dev: i4iphones
+Name: DraGo++ (iOS 11+)
+Sileodepiction: https://pokego2.com/package/drago11/drago11.json
+
+Package: com.pokego2.gbpp
+Version: 1.15.4r-07
+Architecture: iphoneos-arm
+Maintainer: Global++ Tweaks <support@pokego2.com>
+Depends: mobilesubstrate, com.pokego2.shared
+Conflicts: com.cokepokes.Masterball, com.ryleyangus.pokepatch, com.williamcobb.pokemonpatch, com.sull.masterball, com.WilliamCobb.pokemongoanywhere, com.WilliamCobb.pokemongoanywherebeta
+Filename: ./gbpp.deb
+Size: 891328
+MD5sum: c6b42ac92904550621ae5024d8169152
+SHA1: 782762e09266037760af05d0014a11eca9af3717
+SHA256: 3c903ef01fe9e9813bb6812c1fb3174c9df90124045835478b431d1f199f4768
+Section: Tweaks
+Priority: optional
+Description: Hacks and more from Global++!!! Bypass JB Detection.
+Tag: purpose::extension, role::enduser
+Author: Global++ Tweaks <support@pokego2.com>
+Depiction: http://pokego2.com/package/ghostbusters/index.html
+Dev: i4iphones
+Name: Ghostbusters++
+Sileodepiction: https://pokego2.com/package/ghostbusters/ghostbusters.json
+
+Package: com.pokego2.ingress
+Version: 2.20.2r-10
+Architecture: iphoneos-arm
+Maintainer: Global++ Tweaks <support@pokego2.com>
+Depends: mobilesubstrate, firmware (>= 7.0), com.pokego2.shared
+Conflicts: com.cokepokes.Masterball, com.ryleyangus.pokepatch, com.williamcobb.pokemonpatch, com.sull.masterball, com.WilliamCobb.pokemongoanywhere, com.WilliamCobb.pokemongoanywherebeta
+Filename: ./ingresspp.deb
+Size: 893910
+MD5sum: 8e2bb32110d578c78c93f4d0c5f593a8
+SHA1: 61bfd0e9582f6bb3c0484542a33082d8fe5681af
+SHA256: e7b43def02d2ea383d0760dc08cab9f655c1e7be0b6ac1e00afdfaf7a8398da0
+Section: Tweaks
+Priority: optional
+Description: Hacks and more for Ingress!!! Bypass JB Detection.
+Tag: purpose::extension, role::enduser
+Author: Global++ Tweaks <support@pokego2.com>
+Depiction: http://pokego2.com/package/ingress/index.html
+Dev: E
+Name: Ingress Prime++
+Sileodepiction: https://pokego2.com/package/ingress/ingress.json
+
+Package: com.pokego2.jw2
+Version: 1.6.25r-27
+Architecture: iphoneos-arm
+Maintainer: Global++ Tweaks <support@pokego2.com>
+Depends: mobilesubstrate, firmware (>= 7.0)
+Conflicts: com.cokepokes.Masterball, com.ryleyangus.pokepatch, com.williamcobb.pokemonpatch, com.sull.masterball, com.WilliamCobb.pokemongoanywhere, com.WilliamCobb.pokemongoanywherebeta
+Filename: ./jwpp.deb
+Size: 3233148
+MD5sum: ddd4d45872409f53d57671c89e36c607
+SHA1: 0108ee0149540530b35cd0307da4ec25b2e6e10b
+SHA256: 3483237caff5590f81df723dfec5fd846fc98ae109124525a99e796bd2fd40fc
+Section: Tweaks
+Priority: optional
+Description: Hacks and more for Jurassic World Alive!!! Bypass JB Detection.
+Tag: purpose::extension, role::enduser
+Author: Global++ Tweaks <support@pokego2.com>
+Depiction: http://pokego2.com/depiction.html?jurassic
+Dev: i4iphones
+Name: Jurassic++
+Sileodepiction: https://pokego2.com/sileo/jurassic.json
+
+Package: com.pokego2.mgpp
+Version: 1.018r-09
+Architecture: iphoneos-arm
+Maintainer: Global++ Tweaks <support@pokego2.com>
+Depends: mobilesubstrate, firmware (>= 7.0), com.pokego2.shared
+Conflicts: com.cokepokes.Masterball, com.ryleyangus.pokepatch, com.williamcobb.pokemonpatch, com.sull.masterball, com.WilliamCobb.pokemongoanywhere, com.WilliamCobb.pokemongoanywherebeta
+Filename: ./mgpp.deb
+Size: 920838
+MD5sum: c6b2ccc94d434766ac1fb489054fb5a6
+SHA1: 541302e5c93575838caaf4ae0dcc981c8666e940
+SHA256: 91399d650777927c58bbac97818b98471a6920d8336ea9bd0a48e4f14a0fb114
+Section: Tweaks
+Priority: optional
+Description: Hacks and more for Maguss!!! Bypass JB Detection.
+Tag: purpose::extension, role::enduser
+Author: Global++ Tweaks <support@pokego2.com>
+Depiction: http://pokego2.com/depiction.html?maguss
+Dev: i4iphones
+Name: Maguss++
+Sileodepiction: https://pokego2.com/sileo/maguss.json
+
+Package: com.pokego2.pokego2
+Version: 2.0r113-0.141.1
+Architecture: iphoneos-arm
+Maintainer: Global++ Tweaks <support@pokego2.org>
+Depends: mobilesubstrate, firmware (>= 7.0)
+Conflicts: com.cokepokes.Masterball, com.williamcobb.pokemonpatch, com.sull.masterball, com.WilliamCobb.pokemongoanywhere, com.WilliamCobb.pokemongoanywherebeta, com.pokego2.xcon-pokemongo, com.pokego2.pgpatch
+Filename: ./pokegopp.deb
+Size: 25540212
+MD5sum: c67e29f8753eb5699abd001160cb8e49
+SHA1: 7becac31eb70dbce7e7b16cc39fbba4ad060f944
+SHA256: 1cedb82874528b8e1b7e8c5c32694aac61538c6749c5ba1ded218aaae66239ff
+Section: Tweaks
+Priority: optional
+Description: This is a partial bypass. You will be detected every 5-30 min. We block the detection with a "Network Error" message. Simply close and reopen. You will not be prompted for credentials again.
+Tag: purpose::extension, role::enduser
+Author: Global++ Tweaks <support@pokego2.com>
+Depiction: http://pokego2.com/package/pokego/index.html
+Dev: i4iphones
+Name: PokeGo++ 2.0
+Sileodepiction: https://pokego2.com/package/pokego/pokego.json
+
+Package: com.pokego2.pokego2-11
+Version: 2.0r113-0.141.1
+Architecture: iphoneos-arm
+Maintainer: Global++ Tweaks <support@pokego2.org>
+Conflicts: com.cokepokes.Masterball, com.williamcobb.pokemonpatch, com.sull.masterball, com.WilliamCobb.pokemongoanywhere, com.WilliamCobb.pokemongoanywherebeta, com.pokego2.xcon-pokemongo, com.pokego2.pokego2
+Filename: ./pokegopp11.deb
+Size: 25540290
+MD5sum: a3664b513f15b1c4dda654bac93360c4
+SHA1: f3219c50a310172662ebb63ab284d9b76b7c3310
+SHA256: 6d5fb46940f757a460a547c036a5cdec282c7b9b738f0e18dc0b1f23b2bb6483
+Section: Tweaks
+Priority: optional
+Description: This is a partial bypass. You will be detected every 5-30 min. We block the detection with a "Network Error" message. Simply close and reopen. You will not be prompted for credentials again.
+Tag: purpose::extension, role::enduser
+Author: Global++ Tweaks <support@pokego2.com>
+Depiction: http://pokego2.com/depiction.html?pokego
+Dev: i4iphones
+Name: PokeGo++ 2.0 (iOS 11+)
+Sileodepiction: https://pokego2.com/sileo/pokego11.json
+
+Package: com.pokego2.pokegobypass
+Version: 0.137.2
+Architecture: iphoneos-arm
+Maintainer: elliotrobot <support@pokego2.org>
+Depends: mobilesubstrate
+Conflicts: com.cokepokes.Masterball, com.williamcobb.pokemonpatch, com.sull.masterball, com.WilliamCobb.pokemongoanywhere, com.WilliamCobb.pokemongoanywherebeta, com.pokego2.xcon-pokemongo, com.pokego2.pokego2
+Filename: ./pogobypass.deb
+Size: 8084
+MD5sum: b14e659839be0982d753946a7143068f
+SHA1: c4676835eb81d13cdfdedce2afdcc91c13521aa8
+SHA256: 106c8caa361252b476ceba334172ffc4b3cfcd10b2265b97ec7a5d0a16f0ca10
+Section: Tweaks
+Priority: optional
+Description: This bypass is not open sourced and owned by Global Tweaks. Please support us  by donating on our website. Any redistribution of this tweak is not permitted.
+Tag: purpose::extension, role::enduser
+Author: Global++ Tweaks <support@pokego2.com>
+Depiction: http://pokego2.com/package/pokegobypass/index.html
+Dev: elliotrobot
+Name: Pokemon Go JB Bypass by GlobalTweaks
+
+Package: com.pokego2.shared
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: Global++ Tweaks <support@pokego2.com>
+Depends: mobilesubstrate, firmware (>= 7.0)
+Conflicts: com.cokepokes.Masterball, com.ryleyangus.pokepatch, com.williamcobb.pokemonpatch, com.sull.masterball, com.WilliamCobb.pokemongoanywhere, com.WilliamCobb.pokemongoanywherebeta
+Filename: ./shared.deb
+Size: 968376
+MD5sum: 5f04e11b7a7b4d9a325aef651f6a7421
+SHA1: 6a3254a860bc09a492b0adc8aa4eec1836cf3a3b
+SHA256: f18a7eac9dac42b9884ecbd0a1ef9173c4741967dcfa8abbf107debc6bc35f60
+Section: Tweaks
+Priority: optional
+Description: Assets and Resources.
+Tag: purpose::extension, role::enduser
+Author: Global++ Tweaks <support@pokego2.com>
+Depiction: http://pokego2.com/depiction.html?shared
+Dev: i4iphones
+Name: Shared Assets for Tweaks!
+Sileodepiction: https://pokego2.com/sileo/shared.json
+
+Package: com.pokego2.wdpp
+Version: 6.0.0r-17
+Architecture: iphoneos-arm
+Maintainer: Global++ Tweaks <support@pokego2.com>
+Depends: mobilesubstrate, com.pokego2.shared
+Conflicts: com.cokepokes.Masterball, com.ryleyangus.pokepatch, com.williamcobb.pokemonpatch, com.sull.masterball, com.WilliamCobb.pokemongoanywhere, com.WilliamCobb.pokemongoanywherebeta
+Filename: ./wdpp.deb
+Size: 919190
+MD5sum: 70f0ff4bb2d353a5a72c330d6c06ec46
+SHA1: 21e5287117d6650225b9cc7aab9b3f2ec02104d4
+SHA256: b3dbfd17487cb92894c72e8287bf15847a3b9592462d15ca6f44b18adb38ea9f
+Section: Tweaks
+Priority: optional
+Description: Hacks and more from Global++!!! Bypass JB Detection.
+Tag: purpose::extension, role::enduser
+Author: Global++ Tweaks <support@pokego2.com>
+Depiction: http://pokego2.com/depiction.html?walkingdead
+Dev: i4iphones
+Name: Walking Dead++
+Sileodepiction: https://pokego2.com/sileo/walkingdead.json
+

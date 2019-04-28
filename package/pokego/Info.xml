@@ -1,0 +1,57 @@
+<tweak>
+
+<tweakName>
+PokeGo++ 2.0
+</tweakName>
+<tweakShortDescription>
+Tweak for Pokemon Go
+</tweakShortDescription>
+<tweakDescription>
+This tweak allows players to walk their character in-game with a joystick. Additionally, it also includes an IV cheker, as well as other features. Includes support for Go+ and Gotcha.
+</tweakDescription>
+
+<tweakSize>
+18.00 MB
+</tweakSize>
+<tweakCategory>
+Tweaks
+</tweakCategory>
+<tweakCompatibility>
+iOS 10-12.1.2
+</tweakCompatibility>
+<tweakVersion>
+2.0r-110
+</tweakVersion>
+<tweakAppVersion>
+1.105.2/0.137.2
+</tweakAppVersion>
+<tweakUpdateDate>
+03/25/2019
+</tweakUpdateDate>
+
+<tweakDeveloper>
+Global++ Tweaks
+</tweakDeveloper>
+<tweakDevTwitter>
+@GlobalTweaks
+</tweakDevTwitter>
+<tweakDevTwitterPic>
+https://pbs.twimg.com/profile_images/1047917161258397698/joN_-8a2_400x400.jpg
+</tweakDevTwitterPic>
+<tweakDevTwitterURL>
+https://twitter.com/GlobalTweaks
+</tweakDevTwitterURL>
+
+<tweakChangelog>
+• New Shinies and Possible Shiny icons
+• New Spinda and Giratina IV Filters
+• Map Loading Bug Fix
+• Fixed blank buttons
+• Some stability fixes for POST calls
+</tweakChangelog>
+
+<numOfScreenshots>
+6
+</numOfScreenshots>
+
+</tweak>

@@ -1,0 +1,89 @@
+{
+	"class":"DepictionTabView",
+	"minVersion":"0.3",
+	"headerImage":"https://pbs.twimg.com/profile_banners/984874753818333185/1538677896/1500x500",
+	"tintColor":"#010aa3",
+	"tabs":[
+		{
+			"class":"DepictionStackView",
+			"tabname":"Details",
+			"views":[
+				{
+					"class":"DepictionMarkdownView",
+					"markdown":"Pokemon Go JB Bypass by Global++ Tweaks\n\nThis bypass is not open sourced and owned by Global Tweaks. Please support us  by donating on our website. Any redistribution of this tweak is not permitted. Allows you to play Pokemon Go on Jailbroken Devices",
+					"useSpacing":true
+				},
+				{
+					"class":"DepictionScreenshotsView",
+					"itemCornerRadius":12.8,
+					"itemSize":"{180, 361}",
+					"screenshots":[
+						{
+							"accessibilityText":"Screenshot",
+							"url":"https://pokego2.com/package/pokegobypass/1.png"
+						}
+					]
+				},
+				{
+				    "class":"DepictionMarkdownView",
+				    "markdown":"#### What's New\n\nHere's what's new in Pokemon Go JB Bypass by Global++ Tweaks!:\n\nInitial Release!\n\n[Global++ Knowledgebase](https://knowledge.globalplusplus.com)",
+				    "useSpacing":true
+				},
+				{
+					"class":"DepictionSeparatorView"
+				},
+				{
+					"class":"DepictionHeaderView",
+					"title":"Information"
+				},
+				{
+					"class":"DepictionTableTextView",
+					"text":"80 KB",
+					"title":"Size"
+				},
+				{
+					"class":"DepictionTableTextView",
+					"text":"Tweaks",
+					"title":"Category"
+				},
+				{
+					"class":"DepictionTableTextView",
+					"text":"iOS 10-12.1.2",
+					"title":"Compatibility"
+				},
+				{
+					"class":"DepictionTableTextView",
+					"text":"1.0.0",
+					"title":"Version"
+				},
+				{
+					"class":"DepictionTableTextView",
+					"text":"N/A",
+					"title":"App Store Version"
+				},
+				{
+					"class":"DepictionTableTextView",
+					"text":"04/01/2019",
+					"title":"Updated"
+				},
+			]
+		},
+		{
+			"class":"DepictionStackView",
+			"tabname":"Changelog",
+			"views":[
+			    {
+					"class":"DepictionSubheaderView",
+					"title":"1.0.0",
+					"useBoldText":true,
+					"useBottomMargin":false
+				},
+				{
+					"class":"DepictionMarkdownView",
+					"markdown":"1. Initial Release!",
+					"useSpacing":true
+				}
+			]
+		}
+	]
+}

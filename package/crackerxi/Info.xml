@@ -1,0 +1,56 @@
+<tweak>
+
+<tweakName>
+CrackerXI+
+</tweakName>
+<tweakShortDescription>
+Decrypt apps on iOS 11-12
+</tweakShortDescription>
+<tweakDescription>
+This tweak allows you to crack any app on iOS11-12. This works on Electra (iOS 11 only) and Unc0ver jailbreaks. You can remove WatchKit and remove UISupportedDevices from the info.plist in settings.
+</tweakDescription>
+
+<tweakSize>
+9.11 MB
+</tweakSize>
+<tweakCategory>
+System
+</tweakCategory>
+<tweakCompatibility>
+iOS 11-12.1.2
+</tweakCompatibility>
+<tweakVersion>
+1.1.5
+</tweakVersion>
+<tweakAppVersion>
+N/A
+</tweakAppVersion>
+<tweakUpdateDate>
+03/11/2019
+</tweakUpdateDate>
+
+<tweakDeveloper>
+c0pyninja
+</tweakDeveloper>
+<tweakDevTwitter>
+@ipast0re
+</tweakDevTwitter>
+<tweakDevTwitterPic>
+https://pbs.twimg.com/profile_images/783579637548920832/EbkZGbWF_400x400.jpg
+</tweakDevTwitterPic>
+<tweakDevTwitterURL>
+https://twitter.com/ipast0re
+</tweakDevTwitterURL>
+
+<tweakChangelog>
+• Updating to 1.1.5
+• Option to Decrypt Binary only
+• Compatible with iOS 12 (unc0ver only until Electra12 drops)
+• Minor Fixes
+</tweakChangelog>
+
+<numOfScreenshots>
+2
+</numOfScreenshots>
+
+</tweak>
