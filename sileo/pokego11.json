@@ -20,33 +20,33 @@
 					"screenshots":[
 						{
 							"accessibilityText":"Screenshot",
-							"url":"https://pokego2.com/package/pokego11/1.png"
+							"url":"https://globalplusplus.github.io/package/pokego/1.png"
 						},
 						{
 							"accessibilityText":"Screenshot",
-							"url":"https://pokego2.com/package/pokego11/2.png"
+							"url":"https://globalplusplus.github.io/package/pokego/2.png"
 						},
 						{
 							"accessibilityText":"Screenshot",
-							"url":"https://pokego2.com/package/pokego11/3.png"
+							"url":"https://globalplusplus.github.io/package/pokego/3.png"
 						},
                         {
 							"accessibilityText":"Screenshot",
-							"url":"https://pokego2.com/package/pokego11/4.png"
+							"url":"https://globalplusplus.github.io/package/pokego/4.png"
 						},
 						{
 							"accessibilityText":"Screenshot",
-							"url":"https://pokego2.com/package/pokego11/5.png"
+							"url":"https://globalplusplus.github.io/package/pokego/5.png"
 						},
 						{
 							"accessibilityText":"Screenshot",
-							"url":"https://pokego2.com/package/pokego11/6.png"
+							"url":"https://globalplusplus.github.io/package/pokego/6.png"
 						}
 					]
 				},
 				{
 				    "class":"DepictionMarkdownView",
-				    "markdown":"#### What's New\n\nHere's what's new in PokeGo++ 2.0 (iOS 11+)!:\n\n1. Updated to support official app 1.105.2/0.137.2\n2. New Shinies and Possible Shiny icons\n3. New Spinda and Giratina IV Filters\n4. Map Loading Bug Fix\n5. Fixed blank buttons\n6. Some stability fixes for POST calls\n\n[Global++ Knowledgebase](https://knowledge.globalplusplus.com)",
+				    "markdown":"#### What's New\n\nHere's what's new in PokeGo++ 2.0 (iOS 11+)!:\n\n1. Updated to support official app 1.109.0/0.141.1\n2. Please be aware that this is only a partial bypass but one good enough to play.\n3. There are no more crashes with this bypass.\n4. You will be limited to anywhere between 5 and 30 minutes of continuous play without interruption until you are required to restart the app.\n5. We block the detection by displaying “Network Error” on the screen. You will also know if Pokémon stop spawning as well. All you need to do is simply close and reopen. You will not need to re-enter credentials. :)\n\n[Global++ Knowledgebase](https://knowledge.globalplusplus.com)",
 				    "useSpacing":true
 				},
 				{
@@ -58,7 +58,7 @@
 				},
 				{
 					"class":"DepictionTableTextView",
-					"text":"18.00 MB",
+					"text":"25.50 MB",
 					"title":"Size"
 				},
 				{
@@ -73,17 +73,17 @@
 				},
 				{
 					"class":"DepictionTableTextView",
-					"text":"2.0r-110",
+					"text":"2.0r-113",
 					"title":"Version"
 				},
 				{
 					"class":"DepictionTableTextView",
-					"text":"1.105.2/0.137.2",
+					"text":"1.109.0/0.141.1",
 					"title":"App Store Version"
 				},
 				{
 					"class":"DepictionTableTextView",
-					"text":"03/25/2019",
+					"text":"04/28/2019",
 					"title":"Updated"
 				},
 			]
@@ -93,6 +93,20 @@
 			"tabname":"Changelog",
 			"views":[
 			    {
+					"class":"DepictionSubheaderView",
+					"title":"2.0r-113",
+					"useBoldText":true,
+					"useBottomMargin":false
+				},
+				{
+					"class":"DepictionMarkdownView",
+					"markdown":"1. Updated to support official app 1.109.0/0.141.1\n2. Please be aware that this is only a partial bypass but one good enough to play.\n3. There are no more crashes with this bypass.\n4. You will be limited to anywhere between 5 and 30 minutes of continuous play without interruption until you are required to restart the app.\n5. We block the detection by displaying “Network Error” on the screen. You will also know if Pokémon stop spawning as well. All you need to do is simply close and reopen. You will not need to re-enter credentials. :)",
+					"useSpacing":true
+				},
+				{
+					"class":"DepictionSeparatorView"
+				},
+				{
 					"class":"DepictionSubheaderView",
 					"title":"2.0r-110",
 					"useBoldText":true,
