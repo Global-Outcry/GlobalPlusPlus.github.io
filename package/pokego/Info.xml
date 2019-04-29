@@ -11,7 +11,7 @@ This tweak allows players to walk their character in-game with a joystick. Addit
 </tweakDescription>
 
 <tweakSize>
-18.00 MB
+25.50 MB
 </tweakSize>
 <tweakCategory>
 Tweaks
@@ -20,13 +20,13 @@ Tweaks
 iOS 10-12.1.2
 </tweakCompatibility>
 <tweakVersion>
-2.0r-110
+2.0r-113
 </tweakVersion>
 <tweakAppVersion>
-1.105.2/0.137.2
+1.109.0/0.141.1
 </tweakAppVersion>
 <tweakUpdateDate>
-03/25/2019
+04/28/2019
 </tweakUpdateDate>
 
 <tweakDeveloper>
@@ -43,11 +43,10 @@ https://twitter.com/GlobalTweaks
 </tweakDevTwitterURL>
 
 <tweakChangelog>
-• New Shinies and Possible Shiny icons
-• New Spinda and Giratina IV Filters
-• Map Loading Bug Fix
-• Fixed blank buttons
-• Some stability fixes for POST calls
+• Please be aware that this is only a partial bypass but one good enough to play.
+• There are no more crashes with this bypass.
+• You will be limited to anywhere between 5 and 30 minutes of continuous play without interruption until you are required to restart the app.
+• We block the detection by displaying “Network Error” on the screen. You will also know if Pokémon stop spawning as well. All you need to do is simply close and reopen. You will not need to re-enter credentials. :)
 </tweakChangelog>
 
 <numOfScreenshots>
