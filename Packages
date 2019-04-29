@@ -32,10 +32,10 @@ Priority: optional
 Description: Hacks and more for Draconius GO!!! Bypass JB Detection.
 Tag: purpose::extension, role::enduser
 Author: Global++ Tweaks <support@pokego2.com>
-Depiction: http://pokego2.com/package/drago/index.html
+Depiction: http://pokego2.com/depiction.html?drago
 Dev: i4iphones
 Name: DraGo++
-Sileodepiction: https://pokego2.com/package/drago/drago.json
+Sileodepiction: https://pokego2.com/sileo/drago.json
 
 Package: com.pokego2.DraconiusPP-11
 Version: 1.10.0r-32
@@ -53,10 +53,10 @@ Priority: optional
 Description: Hacks and more for Draconius GO!!! Bypass JB Detection.
 Tag: purpose::extension, role::enduser
 Author: Global++ Tweaks <support@pokego2.com>
-Depiction: http://pokego2.com/package/drago11/index.html
+Depiction: http://pokego2.com/depiction.html?drago
 Dev: i4iphones
 Name: DraGo++ (iOS 11+)
-Sileodepiction: https://pokego2.com/package/drago11/drago11.json
+Sileodepiction: https://pokego2.com/sileo/drago11.json
 
 Package: com.pokego2.gbpp
 Version: 1.15.4r-07
@@ -74,10 +74,10 @@ Priority: optional
 Description: Hacks and more from Global++!!! Bypass JB Detection.
 Tag: purpose::extension, role::enduser
 Author: Global++ Tweaks <support@pokego2.com>
-Depiction: http://pokego2.com/package/ghostbusters/index.html
+Depiction: http://pokego2.com/depiction.html?ghostbusters
 Dev: i4iphones
 Name: Ghostbusters++
-Sileodepiction: https://pokego2.com/package/ghostbusters/ghostbusters.json
+Sileodepiction: https://pokego2.com/sileo/ghostbusters.json
 
 Package: com.pokego2.ingress
 Version: 2.20.2r-10
@@ -95,10 +95,10 @@ Priority: optional
 Description: Hacks and more for Ingress!!! Bypass JB Detection.
 Tag: purpose::extension, role::enduser
 Author: Global++ Tweaks <support@pokego2.com>
-Depiction: http://pokego2.com/package/ingress/index.html
+Depiction: http://pokego2.com/depiction.html?ingress
 Dev: E
 Name: Ingress Prime++
-Sileodepiction: https://pokego2.com/package/ingress/ingress.json
+Sileodepiction: https://pokego2.com/sileo/ingress.json
 
 Package: com.pokego2.jw2
 Version: 1.6.25r-27
@@ -158,10 +158,10 @@ Priority: optional
 Description: This is a partial bypass. You will be detected every 5-30 min. We block the detection with a "Network Error" message. Simply close and reopen. You will not be prompted for credentials again.
 Tag: purpose::extension, role::enduser
 Author: Global++ Tweaks <support@pokego2.com>
-Depiction: http://pokego2.com/package/pokego/index.html
+Depiction: http://pokego2.com/depiction.html?pokego
 Dev: i4iphones
 Name: PokeGo++ 2.0
-Sileodepiction: https://pokego2.com/package/pokego/pokego.json
+Sileodepiction: https://pokego2.com/sileo/pokego.json
 
 Package: com.pokego2.pokego2-11
 Version: 2.0r113-0.141.1
