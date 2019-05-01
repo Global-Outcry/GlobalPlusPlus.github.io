@@ -26,7 +26,7 @@
 				},
 				{
 				    "class":"DepictionMarkdownView",
-				    "markdown":"#### What's New\n\nHere's what's new in Jurassic++ for Jurassic World Alive!:\n\nUpdated to support official app 1.6.25\n\n[Global++ Knowledgebase](https://knowledge.globalplusplus.com)",
+				    "markdown":"#### What's New\n\nHere's what's new in Jurassic++ for Jurassic World Alive!:\n\nUpdated to support official app 1.7.25\n\n[Global++ Knowledgebase](https://knowledge.globalplusplus.com)",
 				    "useSpacing":true
 				},
 				{
@@ -53,12 +53,12 @@
 				},
 				{
 					"class":"DepictionTableTextView",
-					"text":"1.6.25r-27",
+					"text":"1.7.25r-27",
 					"title":"Version"
 				},
 				{
 					"class":"DepictionTableTextView",
-					"text":"1.6.25",
+					"text":"1.7.25",
 					"title":"App Store Version"
 				},
 				{
