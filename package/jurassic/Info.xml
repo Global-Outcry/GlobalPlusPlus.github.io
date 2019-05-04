@@ -20,13 +20,13 @@ Tweaks
 iOS 10-12.1.2
 </tweakCompatibility>
 <tweakVersion>
-1.7.25r-27
+1.7.25r-28
 </tweakVersion>
 <tweakAppVersion>
 1.7.25
 </tweakAppVersion>
 <tweakUpdateDate>
-03/10/2019
+05/01/2019
 </tweakUpdateDate>
 
 <tweakDeveloper>
@@ -43,7 +43,7 @@ https://twitter.com/GlobalTweaks
 </tweakDevTwitterURL>
 
 <tweakChangelog>
-• Updated to support official app 1.10.0
+• Updated to support official app 1.7.25
 </tweakChangelog>
 
 <numOfScreenshots>

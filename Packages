@@ -10,10 +10,10 @@ SHA1: cd2926103a0732fe650a412c43462dc47ea6cff4
 SHA256: 99aee5dff9baced1b8385895f76b3a00ab3561bc9af269de1ea0fb26fabb19f4
 Section: System
 Description: Decrypts iOS Apps
-Depiction: http://pokego2.com/depiction.html?crackerxi
+Depiction: http://globalplusplus.github.io.com/depiction.html?crackerxi
 Icon: file:///Applications/crackerxi.app/AppIcon.png
 Name: CrackerXI+
-Sileodepiction: https://pokego2.com/sileo/crackerxi.json
+Sileodepiction: https://globalplusplus.github.io/sileo/crackerxi.json
 Website: https://ipastore.me
 
 Package: com.pokego2.DraconiusPP
@@ -158,10 +158,10 @@ Priority: optional
 Description: This is a partial bypass. You will be detected every 5-30 min. We block the detection with a "Network Error" message. Simply close and reopen. You will not be prompted for credentials again.
 Tag: purpose::extension, role::enduser
 Author: Global++ Tweaks <support@pokego2.com>
-Depiction: https://globalplusplus.github.io/package/pokego/index.html
+Depiction: https://globalplusplus.github.io/depiction.html?pokego
 Dev: i4iphones
 Name: PokeGo++ 2.0
-Sileodepiction: https://globalplusplus.github.io/package/pokego/pokego.json
+Sileodepiction: https://globalplusplus.github.io/sileo/pokego.json
 
 Package: com.pokego2.pokego2-11
 Version: 2.0-r113-0.141.1
